@@ -10,4 +10,4 @@ spec:
     - name: hello-world
       protocol: TCP
       port: 80
-      targetPort: 8088
+      targetPort: 8888
