@@ -23,8 +23,8 @@ spec:
             memory: "128Mi"
             cpu: "250m"
           limits:
-            memory: "384Mi"
-            cpu: "500m"
+            memory: "444Mi"
+            cpu: "555m"
         ports:
         - containerPort: 80
           protocol: TCP
