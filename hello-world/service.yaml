@@ -5,7 +5,7 @@ metadata:
 spec:
   selector:
     app: hello-world
-  type: NodePort
+  type: LoadBalancer
   ports:
     - name: hello-world
       protocol: TCP
