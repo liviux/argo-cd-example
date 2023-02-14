@@ -5,7 +5,7 @@ metadata:
 spec:
   selector:
     app: hello-world
-  type: LoadBalancer
+  type: ClusterIP
   ports:
     - name: hello-world
       protocol: TCP
